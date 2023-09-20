@@ -1,21 +1,29 @@
 /*  your css code here. If applicable */
+
 .hero{
-	display:;
-	justify-content:;
-	align-items:;
+	display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .image{
-	width:;
-	height:;
+	width:300px;
+	height:200px;
 	object-fit:cover;
 }
 button{
-	padding:;
-	background-color:;
-	color:;
-	border-radius:;
-	border:none;
+	padding: 10px;
+    background-color: #e60023; /* Set your desired button background color */
+    color: #fff; /* Set the text color for the button */
+    border-radius: 5px; /* Add rounded corners to the button */
+    font-weight: bold;
+    font-size: 18px;
+    border:none;
 }
 :hover{
-	
+	background-color{
+		
+	}
+}
+button:hover{
+	background-color: hotpink;
 }
